@@ -1,4 +1,5 @@
-
+## Path to main code
+**app/src/main/java/com/example/second**
 ## 1. What makes Compose declarative?
 
 Compose is declarative because you describe what the UI should look like for a given state, rather than how to change it.  
